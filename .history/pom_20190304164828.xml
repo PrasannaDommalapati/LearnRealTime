@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>LearnRealtime</groupId>
-    <artifactId>BDD</artifactId>
+    <groupId>demo</groupId>
+    <artifactId>demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -35,7 +35,7 @@
 		<!-- https://mvnrepository.com/artifact/info.cukes/gherkin-jvm-deps -->
 		<dependency>
 		    <groupId>info.cukes</groupId>
-		    <artifactId>gherkin-jvm-deps</artifactId>
+		    <artifactId>gherkin-jvm-depsss</artifactId>
 		    <version>1.0.3</version>
 		</dependency>
         <dependency>
@@ -44,5 +44,9 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+
     </dependencies>
+
+
+
 </project>
